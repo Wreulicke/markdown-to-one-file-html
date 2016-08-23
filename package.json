@@ -1,0 +1,26 @@
+{
+  "name": "markdown-to-one-file-html",
+  "version": "1.0.0",
+  "description": "\"# markdown-to-one-file-html\"",
+  "main": "index.js",
+  "dependencies": {
+    "markdown-it": "^7.0.1",
+    "mustache": "^2.2.1",
+    "prismjs": "^1.5.1",
+    "vulcanize": "^1.14.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wreulicke/markdown-to-one-file-html.git"
+  },
+  "author": "Wreulicke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Wreulicke/markdown-to-one-file-html/issues"
+  },
+  "homepage": "https://github.com/Wreulicke/markdown-to-one-file-html#readme"
+}
